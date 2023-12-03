@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sat Dec  2 20:52:27 2023
+Quartus Prime Version : 22.1std.1 Build 917 02/14/2023 SC Lite Edition
+Revision Name : mapa
+Top-level Entity Name : mapa
+Family : MAX 10
+Total logic elements : 1,894
+    Total combinational functions : 1,863
+    Dedicated logic registers : 360
+Total registers : 360
+Total pins : 16
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
+UFM blocks : 0
+ADC blocks : 0
